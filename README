@@ -1,7 +1,7 @@
 !! NOT SUPPORTING THIS REPOSITORY !!
 !! ONLY SHARING SOURCE CODE AND COMPILED BINARY FILES !!
 !! The latest stable release is poppler-0.65.0-centos binary files, released on May 19, 2018 !!
-!! BINARY FILES IN CHECK "build/utils" DIR !!
+!! BINARY FILES IN CHECK "build.partXX.rar" files !!
 
 This is poppler, a PDF rendering library.
 
