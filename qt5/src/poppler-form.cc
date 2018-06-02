@@ -41,6 +41,7 @@
 #include <ctype.h>
 
 #ifdef ENABLE_NSS3
+  #include <prtypes.h>
   #include <hasht.h>
 #endif
 
